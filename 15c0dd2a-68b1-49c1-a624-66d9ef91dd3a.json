@@ -1,0 +1,28 @@
+[
+  {
+    "__type__": "cc.TerrainAsset",
+    "_name": "terrain2",
+    "_objFlags": 0,
+    "_native": ".bin",
+    "_layerInfos": [
+      {
+        "__id__": 1
+      }
+    ]
+  },
+  {
+    "__type__": "cc.TerrainLayerInfo",
+    "slot": 0,
+    "tileSize": 1,
+    "detailMap": {
+      "__uuid__": "52ef29ed-bd92-4e94-ab2f-0ebc91bf3a60@6c48a",
+      "__expectedType__": "cc.Texture2D"
+    },
+    "normalMap": {
+      "__uuid__": "f347c2bf-7870-43ac-b2e7-3fc168d27ad6@6c48a",
+      "__expectedType__": "cc.Texture2D"
+    },
+    "roughness": 1,
+    "metallic": 0
+  }
+]
